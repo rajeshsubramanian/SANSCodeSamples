@@ -1,0 +1,7 @@
+/* AUTOMATICALLY GENERATED ON Mon Nov 04 13:04:49 EST 2013*/
+/* DO NOT EDIT */
+
+grant codeBase "file:D:/work/workspaces/eclipseWorkspace-JunoSandboxGit/SANSCodeSamples/bin/*" {
+  permission java.io.FilePermission "D:/temp/sans/*", "write";
+};
+
